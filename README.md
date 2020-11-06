@@ -8,3 +8,6 @@ go build client.go
 
 AuthURL:  "http://localhost:9096/authorize"
 TokenURL: "http://localhost:9096/token"
+
+# Notes for @brad 
+# testing gitflow 
